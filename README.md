@@ -8,8 +8,6 @@ This portfolio contains various types of end-user documents ranging from topic-b
  ### Moodle software help documentation
   
   This is an example of a topic-based user help document written for Moodle, an open-source CMS software. The professor required submission in PDF format. 
-  ### Moodle software help video
-Video component to user help documentation. Created using Camtasia. 
 
 ### Technical description- model 225 button maker 
 Brief technical description of a button making machine. This project includes a technical drawing of the machine and components made using Adobe Illustrator. 
