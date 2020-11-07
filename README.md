@@ -12,5 +12,4 @@ This portfolio contains various types of end-user documents ranging from topic-b
 ### Technical description- model 225 button maker 
 Brief technical description of a button making machine. This project includes a technical drawing of the machine and components made using Adobe Illustrator. 
 
-### Academic research proposal 
-Research proposal for a large-scale field study of open source software projects.
+
